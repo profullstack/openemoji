@@ -1,0 +1,4 @@
+Design one glyph for a premium, original emoji typeface that has to hold its own next to Apple and Microsoft Fluent.
+Art direction: soft-volume 3D with vector clarity. Bold, instantly readable silhouette built from clean geometric forms. Smooth, rich gradients that model the form; one warm key light from the upper left with a crisp specular highlight; gentle ambient occlusion where shapes meet; a subtle darker rim on the lower-right edge. Saturated, harmonious colour; materials read as what they are (glass, metal, fur, fabric, skin) without photographic noise. No outlines, no heavy strokes, no text or letters unless the emoji itself is a letter, number or written symbol.
+Composition: one subject, centred, filling about 86% of the square, facing the viewer, nothing cropped. Fully transparent background. No ground shadow, no frame, no badge, no backdrop, no watermark.
+It must stay legible at 20 pixels and sit beside the rest of the set as one family.

@@ -1,0 +1,8 @@
+/* OpenEmoji 2026-09-24: OpenEmoji 0.1, Unicode 18.0. */
+@font-face {
+  font-family: "OpenEmoji";
+  src: local("Apple Color Emoji");
+  font-display: swap;
+}
+.openemoji { font-family: "OpenEmoji", "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif; }
+img.openemoji { width: 1.2em; height: 1.2em; vertical-align: -0.2em; margin: 0 0.05em; }

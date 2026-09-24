@@ -1,0 +1,7 @@
+# The 1024px masters are the working copy (about 4 GB for the set); every
+# published file is derived from them by `emoji build`.
+master/
+generate.log
+.trace.py
+font/.cbdt/
+font/.sbix/
